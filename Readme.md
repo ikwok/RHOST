@@ -12,13 +12,16 @@ How does it work?
 =================
 
 ### Instructions
-Fork the repo at: (To be added soon).
-We will follow the same workflow explained in the App Inventor development workflow slides.
+Fork this repo. We will follow the same workflow explained in the [App Inventor
+development workflow](http://josmas.github.io/AppInventor2DevelopmentWorflow/#/) slides.
 Clone to your local and make a feature branch. Now pick a file (or more). If no one has touched the file yet, it will contain two words. Add at least 3 sentences of content related to the 2 words (you can add as much content as you want, additional files if you want, code, whatever you can think of!)
 
 If the file already has some content, that means that someone else has modified that file before you did. The idea is the same anyway; add 3+ more lines to the story, commit, push and open a PR.
 
-The PRs will be merged as they arrive, but only if the can be cleanly merged. If there are any conflicts (because someone else modified the file in the meantime) the PRs will be closed (check your notifications if you want to know what happens). If you get a PR rejected, you need to get your files up to date by pulling from the main repository, merge, fix conflicts (if any), and submit another PR.
+PRs will be merged as they arrive, but only if the can be cleanly merged. If there are any conflicts (because someone else modified the file in the meantime) the PRs will be closed (check your notifications if you want to know what happens). If you get a PR rejected, you need to get your files up to date by pulling from the main repository, merge, fix conflicts (if any), and submit another PR.
+
+PRs will not be merged if their content is not appropriate (you will be notified
+of this).
 
 You should always keep your master branch clean, and work on feature branches. Only one PR per feature branch will be accepted. Once it is accepted, you can delete your local feature branch.
 
