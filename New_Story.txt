@@ -1,0 +1,3 @@
+Tried adding to a previous file.
+However, my pull request was rejected :(.
+Therefore, this is created to prevent merge conflicts :).
