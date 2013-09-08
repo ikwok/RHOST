@@ -1,3 +1,6 @@
 Once upon a time there was an app named inventor.
 This app could make other apps.
 He made an app named Magic8Ball.
+This Magic8Ball app could predict the future.
+Ask it a question, and then shake the ball.
+It will magically answer your question.
