@@ -4,3 +4,8 @@ He made an app named Magic8Ball.
 This Magic8Ball app could predict the future.
 Ask it a question, and then shake the ball.
 It will magically answer your question.
+Sometimes it answers correctly!
+Other times it fails...
+I once asked the magic 8 ball if I could ever meet Orlando Bloom and get his autograph.
+It said "Very doubtful."
+Fortunately for myself, the 8 ball was wrong. I now have Orlando Bloom's autograph hanging on my wall *swoooonnnnnn*
