@@ -1,3 +1,7 @@
 Tried adding to a previous file.
 However, my pull request was rejected :(.
 Therefore, this is created to prevent merge conflicts :).
+
+I opened this by accident.
+I like your emoticons, so I'm going to add text to this file.
+I hope you enjoy my sentences, too.
