@@ -18,3 +18,7 @@ And if it's not a magic 8 ball than how can it decide on its own existence?
 Second, could it be that these "sources" are the magic 8 ball, 
 whereas the device we call the magic 8 ball is simply a medium through which they communicate? 
 But this is then a classic mind/body problem; how do we separate one from the other?
+
+Inventor made another app.
+It was called StockExchange.
+StockExchange could only show stocks and not much else.
